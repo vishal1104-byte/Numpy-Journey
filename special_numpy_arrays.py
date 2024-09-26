@@ -26,7 +26,7 @@ print(ar_rn)
 
 
 
-#                                  Diagonal Array using ------> eye function 
+#                                  Diagonal Array using ------> eye function    Give output as an binary format
 
 ar_dia = np.eye(3)
 print(ar_dia)
